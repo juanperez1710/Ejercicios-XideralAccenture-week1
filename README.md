@@ -1,6 +1,6 @@
 # Ejercicios-XideralAccenture-week1
 
-# Juan Pérez Marcelo
+# Alumno: Juan Pérez Marcelo
 
 Este repositorio contiene la colección de **ejercicios prácticos** de la semana 1 para la Academia Java de Xideral-Accenture
 
@@ -18,4 +18,4 @@ Este repositorio contiene la colección de **ejercicios prácticos** de la seman
 
 1. Clona el repositorio:
    ```bash
-   git clone 
+   git clone git@github.com:juanperez1710/Ejercicios-XideralAccenture-week1.git
