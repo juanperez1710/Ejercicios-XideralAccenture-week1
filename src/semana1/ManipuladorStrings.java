@@ -25,15 +25,12 @@ public class ManipuladorStrings {
     public static String construirPiramide(int niveles) {
         StringBuilder sb = new StringBuilder();
         for (int i = 1; i <= niveles; i++) {
-            // Agregar espacios (niveles - i)
             for (int j = 0; j < niveles - i; j++) {
                 sb.append(" ");
             }
-            // Agregar asteriscos (2*i - 1)
             for (int k = 0; k < 2 * i - 1; k++) {
                 sb.append("*");
             }
-            // Salto de línea
             sb.append("\n");
         }
         return sb.toString();
