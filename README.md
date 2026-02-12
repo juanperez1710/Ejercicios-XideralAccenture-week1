@@ -23,12 +23,12 @@ Este repositorio contiene la colección de **ejercicios prácticos** de la seman
    
 ├── .idea/
 ├── out/
-└── src/
-    └── semana1/
-        ├── CalculadoraBasica.java
-        ├── ClasificadorNumeros.java
-        ├── Estudiante.java
-        ├── HerenciaVehiculos.java
-        ├── HolaMundoMejorado.java
-        ├── ManipuladorStrings.java
-        └── README.md
+├── src/
+│   └── semana1/
+│       ├── CalculadoraBasica.java
+│       ├── ClasificadorNumeros.java
+│       ├── Estudiante.java
+│       ├── HerenciaVehiculos.java
+│       ├── HolaMundoMejorado.java
+│       ├── ManipuladorStrings.java
+├── README.md
