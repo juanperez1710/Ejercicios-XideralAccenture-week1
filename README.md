@@ -20,7 +20,8 @@ Este repositorio contiene la colección de **ejercicios prácticos** de la seman
    ```bash
    git clone git@github.com:juanperez1710/Ejercicios-XideralAccenture-week1.git
 2. Acceda a los ejercicios siguiendo la siguiente ruta:
-   
+```
+  
 ├── .idea/
 ├── out/
 ├── src/
@@ -32,3 +33,5 @@ Este repositorio contiene la colección de **ejercicios prácticos** de la seman
 │       ├── HolaMundoMejorado.java
 │       ├── ManipuladorStrings.java
 ├── README.md
+
+```
