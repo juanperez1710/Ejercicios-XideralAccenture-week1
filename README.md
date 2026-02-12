@@ -19,3 +19,16 @@ Este repositorio contiene la colección de **ejercicios prácticos** de la seman
 1. Clona el repositorio:
    ```bash
    git clone git@github.com:juanperez1710/Ejercicios-XideralAccenture-week1.git
+2. Acceda a los ejercicios siguiendo la siguiente ruta:
+   
+├── .idea/
+├── out/
+└── src/
+    └── semana1/
+        ├── CalculadoraBasica.java
+        ├── ClasificadorNumeros.java
+        ├── Estudiante.java
+        ├── HerenciaVehiculos.java
+        ├── HolaMundoMejorado.java
+        ├── ManipuladorStrings.java
+        └── README.md
