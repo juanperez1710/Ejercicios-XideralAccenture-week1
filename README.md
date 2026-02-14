@@ -25,6 +25,7 @@ Este repositorio contiene la colección de **ejercicios prácticos** de la seman
 ├── .idea/
 ├── out/
 ├── src/
+│   └── restSpringMysql/---> Proyecto de la semana 1 elaborado usando docker, springboot, maven y Mysql. 
 │   └── semana1/
 │       ├── CalculadoraBasica.java
 │       ├── ClasificadorNumeros.java
